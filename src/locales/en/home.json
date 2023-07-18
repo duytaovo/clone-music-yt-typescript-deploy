@@ -1,0 +1,16 @@
+{
+    "header":{
+        "home":"Home",
+        "discover":"Discover",
+        "library":"Library",
+        "upgrade":"Upgrade"
+    },
+    "tag":{
+        "relax":"Relax",
+        "recharge":"Recharge",
+        "doExercise":"Do exercise",
+        "work":"Go to work",
+        "focus":"Focus"
+
+    }
+}

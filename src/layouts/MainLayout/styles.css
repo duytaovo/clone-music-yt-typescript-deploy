@@ -1,0 +1,9 @@
+.bg{
+    /* background-image: linear-gradient(to bottom,#6e4ca0,#170F23); */
+    /* background-size: 100vw 50vh; */
+    padding-top: 64px;
+    padding-bottom: 64px;
+    position: absolute;
+    width: 100%;
+    background-color: #170F23;
+}

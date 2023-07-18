@@ -1,0 +1,16 @@
+{
+    "header":{
+        "home":"Trang chủ",
+        "discover":"Khám phá",
+        "library":"Thư viện",
+        "upgrade":"Nâng cấp"
+    },
+    "tag":{
+        "relax":"Thư giãn",
+        "recharge":"Recharge",
+        "doExercise":"Tập thể dục",
+        "work":"Đi làm",
+        "focus":"Tập trung"
+
+    }
+}
